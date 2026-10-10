@@ -1,0 +1,8 @@
+*
+!README.md
+!.gitignore
+!ic_sa_brf/
+ic_sa_brf/*
+!ic_sa_brf/__init__.py
+!ic_sa_brf/blocks.py
+!ic_sa_brf/networks.py
